@@ -96,7 +96,7 @@ justify-content: center;
 }
 .hero1-right{
     width: 20%;
-    border: 1px solid red;
+/*     border: 1px solid red; */
 }
 .mid1{
     display: flex;
